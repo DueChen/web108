@@ -19,6 +19,8 @@
 
 # Calendar
 
+## 1105 Prototyping and wireframing (Invited instruction)
+
 ## 0917
 * Download course material from the above [Dropbox link](https://www.dropbox.com/sh/z0i278fngz4322l/AACTWwNuyyAfH-28iX40J-9Qa?dl=0) to download all course materials
 * Be sure that you have downloaded and installe [Brackets](http://brackets.io/)
