@@ -13,7 +13,7 @@
 
 ## 1029 Prototyping and jquery scroll-to-fixed
 * [prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnXahVH_yKDR9cEo2TbVj3_vOkomZZdjwPLwZ2RFW-XHb9AJxmDozG9DISXNT_QRZazS-x0H_nQpZf/pub?start=false&loop=false&delayms=3000)
-* [jquery](https://docs.google.com/presentation/d/e/2PACX-1vQ2CcGwRxMzvfg_T7laNdhj80qoB7U8MPWJeQ363984KZFq8Q-SRa90mwLUw6s-axZsPohrO3oACoXc/pub?start=false&loop=false&delayms=3000)
+* [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
 * [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtmijJhFveJ/pub?start=false&loop=false&delayms=3000)
 
 
