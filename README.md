@@ -7,6 +7,9 @@
 * Instructor: 謝吉隆 Contact: See http://www.journalism.ntu.edu.tw/
 * TA: 洪詩宸 elricroy[@]gmail.com
 
+# Student works
+* [fixed background](https://paper.dropbox.com/doc/web107-practice--ARFO4x1Gb40BVdL1ivAKIbyrAg-cSzbAZBdjuXta1wRAosY6)
+
 # Calendar
 
 ## 1105 Prototyping and wireframing (Invited instruction)
