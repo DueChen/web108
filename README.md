@@ -8,6 +8,7 @@
 * TA: 洪詩宸 elricroy[@]gmail.com
 
 # Student works
+* [Scrolling webpage case studies](https://paper.dropbox.com/doc/Web107-case-studies--ARHgyEtvh47GRtnA4Ta~LOy1AQ-ONwKODVzyMYupUJxfh8Ce): please help to update and upload your case studies.
 * [fixed background](https://paper.dropbox.com/doc/web107-practice--ARFO4x1Gb40BVdL1ivAKIbyrAg-cSzbAZBdjuXta1wRAosY6)
 
 # Calendar
