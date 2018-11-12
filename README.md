@@ -13,12 +13,15 @@
 
 # Calendar
 
+## 1112 scrolling - status bar
+* [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
+
 ## 1105 Prototyping and wireframing (Invited instruction)
 
 ## 1029 Prototyping and jquery scroll-to-fixed
 * [prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnXahVH_yKDR9cEo2TbVj3_vOkomZZdjwPLwZ2RFW-XHb9AJxmDozG9DISXNT_QRZazS-x0H_nQpZf/pub?start=false&loop=false&delayms=3000)
 * [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
-* [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtmijJhFveJ/pub?start=false&loop=false&delayms=3000)
+* [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
 
 
 ## 1022 Fixed background
