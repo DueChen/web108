@@ -17,7 +17,7 @@
 * 12/03 - Map design + case sharing by TA
 * 12/10 - Proposal: Materials you will use 
 * 12/17 - Parallax scrolling
-* 12/24 - Invited Speech: Google analytics
+* 12/24 - Invited Speech: Google analytics by Hans (confirmed)
 * 12/31 - 彈性放假 
 * 01/07 - Final Presentation
 
