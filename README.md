@@ -12,7 +12,7 @@
 * [fixed background](https://paper.dropbox.com/doc/web107-practice--ARFO4x1Gb40BVdL1ivAKIbyrAg-cSzbAZBdjuXta1wRAosY6)
 
 # Calendar
-* 11/19 - Animation trigger by CSS3
+
 * 11/26 - Scrollspy detection 
 * 12/03 - Map design + case sharing by TA
 * 12/10 - Proposal: Materials you will use 
@@ -20,6 +20,9 @@
 * 12/24 - Invited Speech: Google analytics by Hans (confirmed)
 * 12/31 - 彈性放假 
 * 01/07 - Final Presentation
+
+## 11/19 - Animation by CSS3
+* [Doc: jquery](https://drive.google.com/open?id=1qQyLEJG29nCZR1ZKQWJexTJ1O1I1zhn47SlVcDZOxgM)
 
 ## 1112 scrolling - status bar
 * [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
