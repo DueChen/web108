@@ -20,6 +20,11 @@
 * 12/24 - Invited Speech: Google analytics by Hans (confirmed)
 * 12/31 - 彈性放假 
 * 01/07 - Final Presentation
+## 12/03 Horizontal Scrolling and Scrollspy detection
+* [Image processing for dummies](https://docs.google.com/presentation/d/e/2PACX-1vT8bdqWsysJ4KvQT02B6ZrPC5XDVhOjsPouZV3HX2CiPvAXHhU1wc1YoCkCHYnnPY8uCKOSnjPFssxd/pub?start=false&loop=false&delayms=3000)
+* Next week: Preparing and presenting some of your image materials.
+
+## 11/26 Scrollspy detection
 
 ## 11/19 - Animation by CSS3
 * [Doc: jquery](https://drive.google.com/open?id=1qQyLEJG29nCZR1ZKQWJexTJ1O1I1zhn47SlVcDZOxgM)
