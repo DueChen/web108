@@ -1,4 +1,4 @@
-# detecting div position to trigger annimation
+# Detecting div position to trigger annimation
 * Now you have the following `<div>`. Try to add CSS style and jquery to trigger the appearance of `#div2 div` with keyframe animation.
 ```
 
