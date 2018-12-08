@@ -43,11 +43,11 @@
 
 
 ### Week 12: Parallax scrolling basic
-### Week 13: 12/03 - Horizontal scrolling basic
-### Week 14: 12/10 - Proposal: Materials you will use 
-### Week 15: 12/17 - Parallax scrolling
-### Week 16: 12/24 - Invited Speech: Google analytics by Hans (confirmed)
-### Week 17: 12/31 - Map design + case sharing by TA 
+### Week 13: Horizontal scrolling basic
+### Week 14: Proposal: Materials you will use 
+### Week 15: Parallax scrolling
+### Week 16: Invited Speech: Google analytics by Hans (confirmed)
+### Week 17: Map design + case sharing by TA 
 ### Week 18: Final Presentation
 
 
