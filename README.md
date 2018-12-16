@@ -20,6 +20,10 @@
 * 12/24 - Invited Speech: Google analytics by Hans (confirmed)
 * 12/31 - 彈性放假 
 * 01/07 - Final Presentation
+## 12/17 map design and sheet data
+* [Map design using mapboax and d3.js](https://docs.google.com/presentation/d/197O7V94ZsUU3nUCW9ARyPqx1gWVwEQKirEMgs8DIPE0/edit?usp=sharing)
+* [Reading JSON and CSV by jquery](https://docs.google.com/document/d/1hmC9_q1aDARQ-Vx2lKMoZGy4lDS-4nfiRS9A29L1Aoo/edit?usp=sharing)
+
 ## 12/03 Horizontal Scrolling and Scrollspy detection
 * [Image processing for dummies](https://docs.google.com/presentation/d/e/2PACX-1vT8bdqWsysJ4KvQT02B6ZrPC5XDVhOjsPouZV3HX2CiPvAXHhU1wc1YoCkCHYnnPY8uCKOSnjPFssxd/pub?start=false&loop=false&delayms=3000)
 * Next week: Preparing and presenting some of your image materials.
