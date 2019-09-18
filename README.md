@@ -19,7 +19,11 @@
 ## 0919, 1008 HTML+CSS
 * [Web02 html_CSS](https://docs.google.com/presentation/d/e/2PACX-1vREyxX9qnkQlH0DRddpxHWR0d8F-CtyFppr6dB1GXkUj8kmNDSUirNouyWRNIv-t_SJJDtjQ9vzspt8/pub?start=false&loop=false&delayms=3000)
 * [Doc html CSS](https://docs.google.com/document/d/1sWChYvnCW2zRlWbHY1pVhDYczMBKNH6i1koZNG7IdQs/edit?usp=sharing)
-
+* Preparing Case studies by group
+* Hand painting something
+* Remake something on computer
+* How do you use webpage design to reveal "opposite"
+* What is the color design for 反送中
 
 ## 0912 Course overview and introduction
 * Be sure that you have downloaded and installe [Brackets](http://brackets.io/)
