@@ -18,14 +18,17 @@
 -->
 # Calendar
 
-## 0919, 1008 HTML+CSS
-* [Web02 html_CSS](https://docs.google.com/presentation/d/e/2PACX-1vREyxX9qnkQlH0DRddpxHWR0d8F-CtyFppr6dB1GXkUj8kmNDSUirNouyWRNIv-t_SJJDtjQ9vzspt8/pub?start=false&loop=false&delayms=3000)
-* [Doc html CSS](https://docs.google.com/document/d/1sWChYvnCW2zRlWbHY1pVhDYczMBKNH6i1koZNG7IdQs/edit?usp=sharing)
-* Preparing Case studies by group
+## 0926 HTML+CSS -> Bootstrap
+* [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)
 * Hand painting something
 * Remake something on computer
 * How do you use webpage design to reveal "opposite"
-* What is the color design for 反送中
+* The color matters. What is the color design for HK protest? The color of Rembrandt.
+
+## 0919 HTML+CSS
+* [Web02 html_CSS](https://docs.google.com/presentation/d/e/2PACX-1vREyxX9qnkQlH0DRddpxHWR0d8F-CtyFppr6dB1GXkUj8kmNDSUirNouyWRNIv-t_SJJDtjQ9vzspt8/pub?start=false&loop=false&delayms=3000)
+* [Doc html CSS](https://docs.google.com/document/d/1sWChYvnCW2zRlWbHY1pVhDYczMBKNH6i1koZNG7IdQs/edit?usp=sharing)
+* Preparing [Case studies](https://paper.dropbox.com/doc/Web108-Case-Studies--AlB3JDMhctHEMKRbPlkF2oxzAg-KvOG2nIwdD1yHxZOhAgAI) by [Groups](https://paper.dropbox.com/doc/Web108-Groups--AlDEsLAtf6I49gVG8ctA0JClAQ-HxDR3rnP5BPjJj47VioY4)
 
 ## 0912 Course overview and introduction
 * Be sure that you have downloaded and installe [Brackets](http://brackets.io/)
@@ -60,6 +63,4 @@
 * [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
 ## 1003 Fixed background
 * [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtm3ijJhFveJ/pub?start=false&loop=false&delayms=3000)
-## 0926 bootstrap
-* [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)p
 -->
