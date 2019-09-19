@@ -6,7 +6,6 @@
 * Webpage outcome http://homepage.ntu.edu.tw/~jerryhsieh/web
 -->
 * https://github.com/P4CSS/web108
-
 * Instructor: 謝吉隆 Contact: See http://www.journalism.ntu.edu.tw/
 * Time: 09:20~12:10
 * Week 18: Presentation (09:20-11:10) + Poster Exhibition 11:30~14:30社科院 1F
