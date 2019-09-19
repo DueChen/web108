@@ -8,7 +8,8 @@
 * https://github.com/P4CSS/web108
 
 * Instructor: 謝吉隆 Contact: See http://www.journalism.ntu.edu.tw/
-* TA: 
+* Time: 09:20~12:10
+* Week 18: Presentation (09:20~11:10) + Poster Exhibition 11:30~14:30社科院 1F
 <!--
 # Student works
 * [Scrolling webpage case studies](https://paper.dropbox.com/doc/Web107-case-studies--ARHgyEtvh47GRtnA4Ta~LOy1AQ-ONwKODVzyMYupUJxfh8Ce): please help to update and upload your case studies.
