@@ -9,7 +9,9 @@
 
 * Instructor: 謝吉隆 Contact: See http://www.journalism.ntu.edu.tw/
 * Time: 09:20~12:10
-* Week 18: Presentation (09:20~11:10) + Poster Exhibition 11:30~14:30社科院 1F
+* Week 18: Presentation (09:20-11:10) + Poster Exhibition 11:30~14:30社科院 1F
+* [Groups](https://paper.dropbox.com/doc/Web108-Groups--AlDEsLAtf6I49gVG8ctA0JClAQ-HxDR3rnP5BPjJj47VioY4)
+* [Case studies](https://paper.dropbox.com/doc/Web108-Case-Studies--AlB3JDMhctHEMKRbPlkF2oxzAg-KvOG2nIwdD1yHxZOhAgAI)
 <!--
 # Student works
 * [Scrolling webpage case studies](https://paper.dropbox.com/doc/Web107-case-studies--ARHgyEtvh47GRtnA4Ta~LOy1AQ-ONwKODVzyMYupUJxfh8Ce): please help to update and upload your case studies.
