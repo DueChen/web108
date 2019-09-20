@@ -20,10 +20,12 @@
 
 ## 0926 HTML+CSS -> Bootstrap
 * [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)
-* Hand painting something
+* Hand painting something e.g., TSAI
+* Designing 台灣斷交史
 * Remake something on computer
 * How do you use webpage design to reveal "opposite"
 * The color matters. What is the color design for HK protest? The color of Rembrandt.
+* Modifying your facebook by CSS
 
 ## 0919 HTML+CSS
 * [Web02 html_CSS](https://docs.google.com/presentation/d/e/2PACX-1vREyxX9qnkQlH0DRddpxHWR0d8F-CtyFppr6dB1GXkUj8kmNDSUirNouyWRNIv-t_SJJDtjQ9vzspt8/pub?start=false&loop=false&delayms=3000)
