@@ -20,11 +20,12 @@
 
 ## 0926 HTML+CSS -> Bootstrap
 * [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)
-* Hand painting something e.g., TSAI
-* Designing 台灣斷交史
-* Remake something on computer
-* How do you use webpage design to reveal "opposite"
-* The color matters. What is the color design for HK protest? The color of Rembrandt.
+* [WebA1.Color](https://docs.google.com/presentation/d/e/2PACX-1vQntCcJS2Yc8Umvq10Ofyyd9n8pnau9p0bOyjgF56eJYlk28OOlB0EKiv9nes1e3mq7XB_LziGWgXtx/pub?start=false&loop=false&delayms=3000&slide=id.g63b0e7c8d4_0_0): The color matters. What is the color design for HK protest? The color of Rembrandt.
+* Design thinking
+  - Hand painting something e.g., TSAI
+  - Designing 台灣斷交史
+  - Remake something on computer
+  - How do you use webpage design to reveal "opposite"
 * Modifying your facebook by CSS
 
 ## 0919 HTML+CSS
