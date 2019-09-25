@@ -17,6 +17,14 @@
 * [fixed background](https://paper.dropbox.com/doc/web107-practice--ARFO4x1Gb40BVdL1ivAKIbyrAg-cSzbAZBdjuXta1wRAosY6)
 -->
 # Calendar
+## 1017 Group review reporting
+1. Each member selected two cases
+2. Discussing and reporting only 2~3 cases
+3. Giving your selection a name, e.g., interactive novel, storytelling for timeline, geographical presentation, ... et al.
+4. Copy the link to [dropbox paper](https://paper.dropbox.com/doc/Web108-Case-Studies--AlceZH~4unLDQ~Mv1YpD8tYZAg-KvOG2nIwdD1yHxZOhAgAI)
+
+## 10/03 Invited Talk
+(The talk will be poseponed due to the speaker's schedule)
 
 ## 0926 HTML+CSS -> Bootstrap
 * [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0): You should keep your own website. But if you lose your code, you can use mine.
@@ -58,7 +66,7 @@
 | 15 | 12/19 | Visual design principals<br>Invited Talk: Usability of web design |
 | 16 | 12/26 | Animated Charts                                                   |
 | 17 | 01/02 | Map design and sheet data                                         |
-| 18 | 01/09 | Presentation (09:20~11:10) + Poster Exhibition 11:30~14:30社科院 1F  |
+| 18 | 01/09 | Presentation (09:20-11:10) + Poster Exhibition 11:30~14:30社科院 1F  |
 
 
 
