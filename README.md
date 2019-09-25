@@ -19,7 +19,7 @@
 # Calendar
 
 ## 0926 HTML+CSS -> Bootstrap
-* [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0)
+* [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0): You should keep your own website. But if you lose your code, you can use mine.
 * [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)
 * [WebA1.Color](https://docs.google.com/presentation/d/e/2PACX-1vQntCcJS2Yc8Umvq10Ofyyd9n8pnau9p0bOyjgF56eJYlk28OOlB0EKiv9nes1e3mq7XB_LziGWgXtx/pub?start=false&loop=false&delayms=3000&slide=id.g63b0e7c8d4_0_0): The color matters. What is the color design for HK protest? The color of Rembrandt.
 * Design thinking
@@ -38,6 +38,27 @@
 * Be sure that you have downloaded and installe [Brackets](http://brackets.io/)
 * [Web00_case studies](https://docs.google.com/presentation/d/e/2PACX-1vROGOYmFaNxuFvGnta79LwJlu9FTrHj-nM1fDHFtYRKo_Gnlu9_cFWEo6JgTYQn_gQERJX2rPFm9PCP/pub?start=false&loop=false&delayms=3000)
 * [Web01 Introduction](https://docs.google.com/presentation/d/e/2PACX-1vSn4136pWlNea1Kn79F73lE4UU7zpbFRatmnwG7LsLrxsqK71zlC8L7J9iT8cct5aavfONB3IoFqN7K/pub?start=false&loop=false&delayms=3000)
+
+| W  | Date  | Content                                                           |
+| -- | ----- | ----------------------------------------------------------------- |
+| 1  | 09/12 | Overview                                                          |
+| 2  | 09/19 | HTML+CSS                                                          |
+| 3  | 09/26 | Bootstrap, affix, and scrollby                                    |
+| 4  | 10/03 | Invited Talk: Multimedia Interactive Storytelling                 |
+| 5  | 10/10 | 國慶假期                                                            |
+| 6  | 10/17 | Report: Storytelling in News                                      |
+| 7  | 10/24 | Fixed background detection, status bar                            |
+| 8  | 10/31 | Prototyping and wireframing<br>jquery scroll-to-fixed             |
+| 9  | 11/07 | Report: Using bootstrap                                           |
+| 10 | 11/14 | Horizontal scrolling<br>Animation by CSS3                         |
+| 11 | 11/21 | Scrolling - status bar and application                            |
+| 12 | 11/28 | Horizontal Scrolling                                              |
+| 13 | 12/05 | Parallax Scrolling                                                |
+| 14 | 12/12 | Proposal: Materials you will use                                  |
+| 15 | 12/19 | Visual design principals<br>Invited Talk: Usability of web design |
+| 16 | 12/26 | Animated Charts                                                   |
+| 17 | 01/02 | Map design and sheet data                                         |
+| 18 | 01/09 | Presentation (09:20~11:10) + Poster Exhibition 11:30~14:30社科院 1F  |
 
 
 
