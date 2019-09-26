@@ -30,12 +30,7 @@
 * [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0): You should keep your own website. But if you lose your code, you can use mine.
 * [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)
 * [WebA1.Color](https://docs.google.com/presentation/d/e/2PACX-1vQntCcJS2Yc8Umvq10Ofyyd9n8pnau9p0bOyjgF56eJYlk28OOlB0EKiv9nes1e3mq7XB_LziGWgXtx/pub?start=false&loop=false&delayms=3000&slide=id.g63b0e7c8d4_0_0): The color matters. What is the color design for HK protest? The color of Rembrandt.
-* Design thinking
-  - Hand painting something e.g., TSAI
-  - Designing 台灣斷交史
-  - Remake something on computer
-  - How do you use webpage design to reveal "opposite"
-* Modifying your facebook by CSS
+* Practice: Customizing your facebook by StyleBot extension
 
 ## 0919 HTML+CSS
 * [Web02 html_CSS](https://docs.google.com/presentation/d/e/2PACX-1vREyxX9qnkQlH0DRddpxHWR0d8F-CtyFppr6dB1GXkUj8kmNDSUirNouyWRNIv-t_SJJDtjQ9vzspt8/pub?start=false&loop=false&delayms=3000)
