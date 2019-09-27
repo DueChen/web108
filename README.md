@@ -25,6 +25,7 @@
 
 ## 10/03 Invited Talk
 (The talk will be poseponed due to the speaker's schedule)
+- Assignment: Prototyping [this](http://bunkai-kei.com/special/Elect-LO-nica/)
 
 ## 0926 HTML+CSS -> Bootstrap
 * [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0): You should keep your own website. But if you lose your code, you can use mine.
