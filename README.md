@@ -28,7 +28,7 @@
 * [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)
 * [prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnXahVH_yKDR9cEo2TbVj3_vOkomZZdjwPLwZ2RFW-XHb9AJxmDozG9DISXNT_QRZazS-x0H_nQpZf/pub?start=false&loop=false&delayms=3000)
 * **Assignment**: Prototyping [this](http://bunkai-kei.com/special/Elect-LO-nica/) by hand painting.
-
+* New case: https://udn.com/upf/newmedia/2019_data/DUI_victim_stories/
 
 ## 0926 HTML+CSS
 * [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0): You should keep your own website. But if you lose your code, you can use mine.
