@@ -23,13 +23,15 @@
 3. Giving your selection a name, e.g., interactive novel, storytelling for timeline, geographical presentation, ... et al.
 4. Copy the link to [dropbox paper](https://paper.dropbox.com/doc/Web108-Case-Studies--AlceZH~4unLDQ~Mv1YpD8tYZAg-KvOG2nIwdD1yHxZOhAgAI)
 
-## 10/03 Invited Talk
-(The talk will be poseponed due to the speaker's schedule)
-- Assignment: Prototyping [this](http://bunkai-kei.com/special/Elect-LO-nica/)
-
-## 0926 HTML+CSS -> Bootstrap
+## 10/03 HTML+CSS -> bootstrap
 * [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0): You should keep your own website. But if you lose your code, you can use mine.
 * [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)
+* [prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnXahVH_yKDR9cEo2TbVj3_vOkomZZdjwPLwZ2RFW-XHb9AJxmDozG9DISXNT_QRZazS-x0H_nQpZf/pub?start=false&loop=false&delayms=3000)
+* **Assignment**: Prototyping [this](http://bunkai-kei.com/special/Elect-LO-nica/) by hand painting.
+
+
+## 0926 HTML+CSS
+* [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0): You should keep your own website. But if you lose your code, you can use mine.
 * [WebA1.Color](https://docs.google.com/presentation/d/e/2PACX-1vQntCcJS2Yc8Umvq10Ofyyd9n8pnau9p0bOyjgF56eJYlk28OOlB0EKiv9nes1e3mq7XB_LziGWgXtx/pub?start=false&loop=false&delayms=3000&slide=id.g63b0e7c8d4_0_0): The color matters. What is the color design for HK protest? The color of Rembrandt.
 * Practice: Customizing your facebook by StyleBot extension
 
@@ -87,7 +89,6 @@
 * [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
 ## 1105 Prototyping and wireframing (Invited instruction)
 ## 1010 Vacation
-* [prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnXahVH_yKDR9cEo2TbVj3_vOkomZZdjwPLwZ2RFW-XHb9AJxmDozG9DISXNT_QRZazS-x0H_nQpZf/pub?start=false&loop=false&delayms=3000)
 * [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
 * [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
 ## 1003 Fixed background
