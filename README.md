@@ -1,10 +1,6 @@
-# https://github.com/P4CSS/web108
+# https://p4css.github.io/web108/
 
 # Info
-<!--
-* [Dropbox link](https://www.dropbox.com/sh/z0i278fngz4322l/AACTWwNuyyAfH-28iX40J-9Qa?dl=0) to download all course materials%}
-* Webpage outcome http://homepage.ntu.edu.tw/~jerryhsieh/web
--->
 * https://github.com/P4CSS/web108
 * Instructor: 謝吉隆 Contact: See http://www.journalism.ntu.edu.tw/
 * Time: 09:20~12:10
@@ -12,11 +8,7 @@
 * [Groups](https://paper.dropbox.com/doc/Web108-Groups--AlDEsLAtf6I49gVG8ctA0JClAQ-HxDR3rnP5BPjJj47VioY4)
 * [Case studies](https://paper.dropbox.com/doc/Web108-Case-Studies--AlB3JDMhctHEMKRbPlkF2oxzAg-KvOG2nIwdD1yHxZOhAgAI)
 * [Bootstrap tutorial](https://paper.dropbox.com/doc/BS01-Basic--AmzrH3UnX~buNUkHtW3DEbPrAQ-WiMAngjSMsHk4YYcznJgL)
-<!--
-# Student works
-* [Scrolling webpage case studies](https://paper.dropbox.com/doc/Web107-case-studies--ARHgyEtvh47GRtnA4Ta~LOy1AQ-ONwKODVzyMYupUJxfh8Ce): please help to update and upload your case studies.
-* [fixed background](https://paper.dropbox.com/doc/web107-practice--ARFO4x1Gb40BVdL1ivAKIbyrAg-cSzbAZBdjuXta1wRAosY6)
--->
+
 # Calendar
 ## 1017 Group review reporting
 1. Each member selected two cases
@@ -94,4 +86,13 @@
 * [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
 ## 1003 Fixed background
 * [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtm3ijJhFveJ/pub?start=false&loop=false&delayms=3000)
+-->
+<!--
+# Student works
+* [Scrolling webpage case studies](https://paper.dropbox.com/doc/Web107-case-studies--ARHgyEtvh47GRtnA4Ta~LOy1AQ-ONwKODVzyMYupUJxfh8Ce): please help to update and upload your case studies.
+* [fixed background](https://paper.dropbox.com/doc/web107-practice--ARFO4x1Gb40BVdL1ivAKIbyrAg-cSzbAZBdjuXta1wRAosY6)
+-->
+<!--
+* [Dropbox link](https://www.dropbox.com/sh/z0i278fngz4322l/AACTWwNuyyAfH-28iX40J-9Qa?dl=0) to download all course materials%}
+* Webpage outcome http://homepage.ntu.edu.tw/~jerryhsieh/web
 -->
