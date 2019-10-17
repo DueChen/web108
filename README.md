@@ -11,6 +11,7 @@
 * Week 18: Presentation (09:20-11:10) + Poster Exhibition 11:30~14:30社科院 1F
 * [Groups](https://paper.dropbox.com/doc/Web108-Groups--AlDEsLAtf6I49gVG8ctA0JClAQ-HxDR3rnP5BPjJj47VioY4)
 * [Case studies](https://paper.dropbox.com/doc/Web108-Case-Studies--AlB3JDMhctHEMKRbPlkF2oxzAg-KvOG2nIwdD1yHxZOhAgAI)
+* [Bootstrap tutorial](https://paper.dropbox.com/doc/BS01-Basic--AmzrH3UnX~buNUkHtW3DEbPrAQ-WiMAngjSMsHk4YYcznJgL)
 <!--
 # Student works
 * [Scrolling webpage case studies](https://paper.dropbox.com/doc/Web107-case-studies--ARHgyEtvh47GRtnA4Ta~LOy1AQ-ONwKODVzyMYupUJxfh8Ce): please help to update and upload your case studies.
