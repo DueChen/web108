@@ -8,6 +8,7 @@
 * [Groups](https://paper.dropbox.com/doc/Web108-Groups--AlDEsLAtf6I49gVG8ctA0JClAQ-HxDR3rnP5BPjJj47VioY4)
 * [Case studies](https://paper.dropbox.com/doc/Web108-Case-Studies--AlB3JDMhctHEMKRbPlkF2oxzAg-KvOG2nIwdD1yHxZOhAgAI)
 * [Bootstrap tutorial](https://paper.dropbox.com/doc/BS01-Basic--AmzrH3UnX~buNUkHtW3DEbPrAQ-WiMAngjSMsHk4YYcznJgL)
+* [Index of tutorials](http://homepage.ntu.edu.tw/~jerryhsieh/web/)
 
 # Calendar
 ## 1017 Group review reporting
@@ -16,9 +17,17 @@
 3. Giving your selection a name, e.g., interactive novel, storytelling for timeline, geographical presentation, ... et al.
 4. Copy the link to [dropbox paper](https://paper.dropbox.com/doc/Web108-Case-Studies--AlceZH~4unLDQ~Mv1YpD8tYZAg-KvOG2nIwdD1yHxZOhAgAI)
 
+## 10/24 Bootstrap -> Fixed Background
+* [Bootstrap](https://paper.dropbox.com/doc/BS01-Basic--AnN~pcj~0wA1QkQc7PY~YS55AQ-WiMAngjSMsHk4YYcznJgL)
+* [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtmijJhFveJ/pub?start=false&loop=false&delayms=3000)
+* [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
+* [Bootstrap show room](http://homepage.ntu.edu.tw/~jerryhsieh/web/2_1_bootstrap_basic.html)
+
+
+## 10/17 Reporting
+
 ## 10/03 HTML+CSS -> bootstrap
 * [Current Teacher Version](https://www.dropbox.com/sh/n4pn9zpyiavh3gf/AAD58ZtHG0_oVbHw8721UQ0ta?dl=0): You should keep your own website. But if you lose your code, you can use mine.
-* [Doc Bootstrap](https://docs.google.com/document/d/1EBkAkP1HZaHGYkUD3WI77NUen4n3cZfMK5wgONU9uSk/edit?usp=sharing)
 * [prototyping](https://docs.google.com/presentation/d/e/2PACX-1vRnXahVH_yKDR9cEo2TbVj3_vOkomZZdjwPLwZ2RFW-XHb9AJxmDozG9DISXNT_QRZazS-x0H_nQpZf/pub?start=false&loop=false&delayms=3000)
 * **Assignment**: Prototyping [this](http://bunkai-kei.com/special/Elect-LO-nica/) by hand painting.
 * New case: https://udn.com/upf/newmedia/2019_data/DUI_victim_stories/
@@ -82,10 +91,7 @@
 * [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
 ## 1105 Prototyping and wireframing (Invited instruction)
 ## 1010 Vacation
-* [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
-* [Scrolling](https://docs.google.com/presentation/d/1s8RWoxJKCzX4ukLY6PVBvPKxZx5iLZ1DwCDXcrQvJvs/edit?usp=sharing)
-## 1003 Fixed background
-* [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtm3ijJhFveJ/pub?start=false&loop=false&delayms=3000)
+
 -->
 <!--
 # Student works
