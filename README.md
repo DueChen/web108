@@ -11,17 +11,22 @@
 * [Index of tutorials](http://homepage.ntu.edu.tw/~jerryhsieh/web/)
 
 # Calendar
+
+## 10/24 Bootstrap -> Fixed Background
+* [Index of tutorials](http://homepage.ntu.edu.tw/~jerryhsieh/web/)
+* [Bootstrap](https://paper.dropbox.com/doc/BS01-Basic--AnN~pcj~0wA1QkQc7PY~YS55AQ-WiMAngjSMsHk4YYcznJgL)
+* [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtmijJhFveJ/pub?start=false&loop=false&delayms=3000)
+* [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
+* [Bootstrap show room](http://homepage.ntu.edu.tw/~jerryhsieh/web/2_1_bootstrap_basic.html)
+
+
 ## 1017 Group review reporting
 1. Each member selected two cases
 2. Discussing and reporting only 2~3 cases
 3. Giving your selection a name, e.g., interactive novel, storytelling for timeline, geographical presentation, ... et al.
 4. Copy the link to [dropbox paper](https://paper.dropbox.com/doc/Web108-Case-Studies--AlceZH~4unLDQ~Mv1YpD8tYZAg-KvOG2nIwdD1yHxZOhAgAI)
 
-## 10/24 Bootstrap -> Fixed Background
-* [Bootstrap](https://paper.dropbox.com/doc/BS01-Basic--AnN~pcj~0wA1QkQc7PY~YS55AQ-WiMAngjSMsHk4YYcznJgL)
-* [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtmijJhFveJ/pub?start=false&loop=false&delayms=3000)
-* [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
-* [Bootstrap show room](http://homepage.ntu.edu.tw/~jerryhsieh/web/2_1_bootstrap_basic.html)
+
 
 
 ## 10/17 Reporting
