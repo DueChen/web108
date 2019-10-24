@@ -16,6 +16,7 @@
 * [Index of tutorials](http://homepage.ntu.edu.tw/~jerryhsieh/web/)
 * [Bootstrap](https://paper.dropbox.com/doc/BS01-Basic--AnN~pcj~0wA1QkQc7PY~YS55AQ-WiMAngjSMsHk4YYcznJgL)
 * [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtmijJhFveJ/pub?start=false&loop=false&delayms=3000)
+  - [Codepen: Only background-image grayscal](https://codepen.io/TheWebDevKev/pen/RPZzOy)
 * [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
 * [Bootstrap show room](http://homepage.ntu.edu.tw/~jerryhsieh/web/2_1_bootstrap_basic.html)
 
