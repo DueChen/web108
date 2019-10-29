@@ -12,6 +12,9 @@
 
 # Calendar
 
+## 10/31
+* **AS10/31** Pasting links of your design to [the dropbox paper page](https://paper.dropbox.com/doc/Web108-AS1031--AnmneHNf_wgAI9DOUjax0G9cAg-oO22g5cEexb88IaEfXErp)
+
 ## 10/24 Bootstrap -> Fixed Background
 * [Index of tutorials](http://homepage.ntu.edu.tw/~jerryhsieh/web/)
 * [Bootstrap](https://paper.dropbox.com/doc/BS01-Basic--AnN~pcj~0wA1QkQc7PY~YS55AQ-WiMAngjSMsHk4YYcznJgL)
