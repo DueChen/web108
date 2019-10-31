@@ -14,6 +14,7 @@
 
 ## 10/31
 * **AS10/31** Pasting links of your design to [the dropbox paper page](https://paper.dropbox.com/doc/Web108-AS1031--AnmneHNf_wgAI9DOUjax0G9cAg-oO22g5cEexb88IaEfXErp)
+* [Sketching Practice Results](https://drive.google.com/open?id=1si-BErc2JIGpqFbjkdIO0-XLQAb0ajsq)
 
 ## 10/24 Bootstrap -> Fixed Background
 * [Index of tutorials](http://homepage.ntu.edu.tw/~jerryhsieh/web/)
