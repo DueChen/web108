@@ -12,17 +12,22 @@
 
 # Calendar
 
-## 10/31
+## 11/07
 * **AS10/31** Pasting links of your design to [the dropbox paper page](https://paper.dropbox.com/doc/Web108-AS1031--AnmneHNf_wgAI9DOUjax0G9cAg-oO22g5cEexb88IaEfXErp)
 * [Sketching Practice Results](https://drive.google.com/open?id=1si-BErc2JIGpqFbjkdIO0-XLQAb0ajsq)
+* [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtmijJhFveJ/pub?start=false&loop=false&delayms=3000)
+
+
+
+## 10/31
+  - [Codepen: Only background-image grayscal](https://codepen.io/TheWebDevKev/pen/RPZzOy)
+* [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
+* [Bootstrap show room](http://homepage.ntu.edu.tw/~jerryhsieh/web/2_1_bootstrap_basic.html)
+
 
 ## 10/24 Bootstrap -> Fixed Background
 * [Index of tutorials](http://homepage.ntu.edu.tw/~jerryhsieh/web/)
 * [Bootstrap](https://paper.dropbox.com/doc/BS01-Basic--AnN~pcj~0wA1QkQc7PY~YS55AQ-WiMAngjSMsHk4YYcznJgL)
-* [Scrolling](https://docs.google.com/presentation/d/e/2PACX-1vSzLjy8eWHL7_bh2wHjdOhiycpcPapZqTJTEs5wozhzcSVdeD9JglH-tAv0ypgk-HiivUtmijJhFveJ/pub?start=false&loop=false&delayms=3000)
-  - [Codepen: Only background-image grayscal](https://codepen.io/TheWebDevKev/pen/RPZzOy)
-* [jquery](https://docs.google.com/presentation/d/1iWIAoMnbvtgwPHHHnFD80qOdCXqRLVIle99X5kaB9sk/edit?usp=sharing)
-* [Bootstrap show room](http://homepage.ntu.edu.tw/~jerryhsieh/web/2_1_bootstrap_basic.html)
 
 
 ## 1017 Group review reporting
