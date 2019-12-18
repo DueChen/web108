@@ -16,6 +16,8 @@
 * [d3 practice](http://homepage.ntu.edu.tw/~jerryhsieh/d3/d1_d3bar/d3bar.html)
   - [codepen project](https://codepen.io/jirlong/project/editor/AbqjoP)
   - [codepen collection](https://codepen.io/collection/AzPxVg/)
+  - [slide for d3](https://drive.google.com/open?id=1gHaYouGH_5Oeo-0BdRO1OwYpPpHk6nSC9Nxc7hgw-_Y)
+* [slide for map](https://drive.google.com/open?id=197O7V94ZsUU3nUCW9ARyPqx1gWVwEQKirEMgs8DIPE0)
 
 
 ## 11/07
