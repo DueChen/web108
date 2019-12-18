@@ -12,6 +12,12 @@
 
 # Calendar
 
+## 12/19
+* [d3 practice](http://homepage.ntu.edu.tw/~jerryhsieh/d3/d1_d3bar/d3bar.html)
+  - [codepen project](https://codepen.io/jirlong/project/editor/AbqjoP)
+  - [codepen collection](https://codepen.io/collection/AzPxVg/)
+
+
 ## 11/07
 * **AS10/31** Pasting links of your design to [the dropbox paper page](https://paper.dropbox.com/doc/Web108-AS1031--AnmneHNf_wgAI9DOUjax0G9cAg-oO22g5cEexb88IaEfXErp)
 * [Sketching Practice Results](https://drive.google.com/open?id=1si-BErc2JIGpqFbjkdIO0-XLQAb0ajsq)
