@@ -14,7 +14,7 @@
 
 ## 12/26
 * [Poster template](https://www.dropbox.com/s/vuu41ld12jn9o8g/poster1081_web.pptx?dl=0)
-* [Sample]()
+* [d1_d3bar code](https://www.dropbox.com/sh/rl5tdnp9e45d0w8/AACrQ_7FQ8vArkF7i7Z2x2FYa?dl=0)
 
 ## 12/19
 * [d3 practice](http://homepage.ntu.edu.tw/~jerryhsieh/d3/d1_d3bar/d3bar.html)
