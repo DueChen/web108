@@ -12,6 +12,10 @@
 
 # Calendar
 
+## 12/26
+* [Poster template](https://www.dropbox.com/s/vuu41ld12jn9o8g/poster1081_web.pptx?dl=0)
+* [Sample]()
+
 ## 12/19
 * [d3 practice](http://homepage.ntu.edu.tw/~jerryhsieh/d3/d1_d3bar/d3bar.html)
   - [codepen project](https://codepen.io/jirlong/project/editor/AbqjoP)
